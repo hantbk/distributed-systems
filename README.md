@@ -14,3 +14,4 @@ Distributed systems have several key characteristics that set them apart from ot
 
 - **Lab 1**: [Link](./lab1/)
 - **Lab 2**: [Link](./lab2/)
+- **Lab 3**: [Link](./lab3/)
